@@ -1,4 +1,4 @@
-# Accuracy on test set :- 98.6% !!
+# Accuracy on test set :- 90% !!
 import sklearn.utils
 import pandas as pd
 from keras.models import Sequential
